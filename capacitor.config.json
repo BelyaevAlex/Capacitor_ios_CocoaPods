@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "Capacitor_ios_CocoaPods",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
